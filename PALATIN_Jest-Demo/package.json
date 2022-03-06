@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "compareFunction.js",
   "scripts": {
-    "test": "jest compare.test.js --coverage"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
